@@ -1,0 +1,30 @@
+@import	url(https://fonts.googleapis.com/css2?family=Ramaraja&family=Source+Serif+Pro:ital,wght@1,200&display=swap);
+@import	url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Ramaraja', serif; 
+	font-size: 18px;
+} 	
+
+h1 {
+	background-color: aliceblue;
+} 	
+
+h1,h2 {
+	background-color: aliceblue; opacity: 0.9;
+} 	
+
+h1,h2,h3 {
+	font-family: 'Source Serif Pro', serif; 
+	font-weight: bold;
+} 	
+
+
+a {
+	text-decoration: none;
+	
+} 	
